@@ -2,6 +2,10 @@
 
 Original Github repo from [IoTsec/Room-Climate-Datasets](https://github.com/IoTsec/Room-Climate-Datasets)
 
+### Purpose
+This forked repo contains a dataset for time series prediction for building climate. We have applied some data analytics and transformations in order to train time series transformer models.
+You can find the repo that uses this forked repo as a dataset if you are interested [here (AvansETI/SmartGridAI)](https://github.com/AvansETI/SmartGridAI).
+
 Room climate data, i.e., temperature and relative humidity, is supected to leak privacy-sensitive information, e.g., the number of occupants in the room or even the activity of these occupants. We evaluated this privacy threat with an experimental study, in which we measured room climate data while one or two occupant(s) performed a pre-defined sequence of tasks.
 
 To encourage further research on IoT privacy issues, we publish our collected sensor data (with groundtruth) as open datasets in this repository. If you refer to these data in a publication, please cite [1].
