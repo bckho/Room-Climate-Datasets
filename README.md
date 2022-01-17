@@ -2,6 +2,8 @@
 
 Original Github repo from [IoTsec/Room-Climate-Datasets](https://github.com/IoTsec/Room-Climate-Datasets)
 
+[Git repo with transformed data](https://github.com/bckho/Smart-Building-System-Dataset)
+
 ### Purpose
 This forked repo contains a dataset for time series prediction for building climate. We have applied some data analytics and transformations in order to train time series transformer models.
 You can find the repo that uses this forked repo as a dataset if you are interested [here (AvansETI/SmartGridAI)](https://github.com/AvansETI/SmartGridAI).
